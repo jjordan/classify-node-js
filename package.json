@@ -1,0 +1,13 @@
+{
+  "name": "titan-city-battles",
+  "description": "HTML5 and mobile collectible card game",
+  "author": "Jeremiah Jordan <jjordan@perlreason.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "~2.1.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "engine": "node >= 0.10.25"
+}
